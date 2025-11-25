@@ -1,0 +1,1 @@
+from tasks.transformacao_gold_survey import main
